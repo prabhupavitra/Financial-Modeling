@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prabhupavitra/Financial-Modeling/blob/master/Loan%20Amortization_Pandas.ipynb)
+
 # Financial Modeling
 
 ### What is financial modeling?
